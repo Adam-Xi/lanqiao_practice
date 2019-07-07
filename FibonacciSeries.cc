@@ -27,4 +27,3 @@ int main()
     cout << Fibobacci(n) << endl;
     return 0;
 }
-
